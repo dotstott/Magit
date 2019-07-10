@@ -1,3 +1,3 @@
 # Magit
 
-Testing magit
+Testing magit again
