@@ -1,1 +1,3 @@
 # Magit
+
+Testing magit
